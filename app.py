@@ -6,7 +6,7 @@ from io import BytesIO
 from streamlit_drawable_canvas import st_canvas
 
 # URL до вашего API
-API_URL = "https://flower-classification-api.onrender.com/predict/"
+API_URL = "https://flower-classification-vnk7.onrender.com/predict/"
 
 # Имена классов цветов
 CLASS_NAMES = {
